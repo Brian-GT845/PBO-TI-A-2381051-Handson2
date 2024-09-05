@@ -9,7 +9,7 @@ public class perbandingan {
         System.out.println("a == b: " + hasilsamadengan);
 
         boolean hasiltidaksamadengan = (a != b);
-        System.out.println("a != b :" + hasiltidaksamadengan;
+        System.out.println("a != b :" + hasiltidaksamadengan);
 
         boolean hasilelebihbesardari =(a > b);
         System.out.println("a > b :" + hasilelebihbesardari);
